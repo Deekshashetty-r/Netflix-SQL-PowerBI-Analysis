@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes the Netflix dataset (8,800+ titles) to understand content trends, global market share, and the platform's shift towards digital streaming.
 
+## Data Source
+* **Source:** Kaggle (Netflix Movies and TV Shows Dataset)
+* **Description:** A dataset containing details of all movies and TV shows released on Netflix, including cast, country, release year, and rating.
+
 ## Tech Stack
 * **SQL (PostgreSQL):** Data cleaning, window functions, and aggregation.
 * **Power BI:** Dashboarding and data visualization.
